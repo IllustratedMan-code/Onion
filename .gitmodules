@@ -1,0 +1,3 @@
+[submodule "src/.tmp_update/.data/Core/Retroarch"]
+	path = src/.tmp_update/.data/Core/Retroarch
+	url = https://github.com/IllustratedMan-code/Onion-Retroarch.git
