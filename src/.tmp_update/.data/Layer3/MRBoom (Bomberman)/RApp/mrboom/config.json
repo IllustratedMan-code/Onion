@@ -1,0 +1,13 @@
+{
+"label":"mrboom",
+"icon":"mrboom.png",
+"iconsel":"mrboom.png",
+"launch":"launch.sh",
+"rompath":"./Launch",
+"imgpath":"./Launch",
+"useswap":0,
+"shortname":0,
+"hidebios":1,
+"extlist":""
+}
+
