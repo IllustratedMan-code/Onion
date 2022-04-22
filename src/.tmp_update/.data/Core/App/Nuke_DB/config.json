@@ -1,0 +1,7 @@
+{
+"label":"DB Nuker",
+"icon":"icon.png",
+"iconsel":"icon.png",
+"launch":"launch.sh",
+"description":"Force the game lists to refresh."
+}
