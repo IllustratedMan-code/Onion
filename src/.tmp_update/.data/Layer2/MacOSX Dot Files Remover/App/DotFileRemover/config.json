@@ -1,0 +1,7 @@
+{
+"label":"Dot files remover",
+"icon":"icon.png",
+"iconsel":"icon.png",
+"launch":"launch.sh",
+"description":"Removes files created by MacOSX"
+}
